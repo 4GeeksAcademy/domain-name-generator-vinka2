@@ -1,1 +1,10 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+* {
+  background-color: #bde8ca;
+  color: #0d7c66;
+  font-family: "Playfair Display", serif;
+  font-style: normal;
+}
+p {
+  font-size: 32px;
+}
